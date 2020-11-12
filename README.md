@@ -5,6 +5,8 @@ Prerequisites:
 * Python3
 * Tensorflow 2
 * Docker
+
+
 To run locally:
 ```
 ./run.sh
