@@ -3,3 +3,4 @@ FROM tensorflow/serving:latest-gpu
 ADD saved_models/ /models/
 #Hardcode this for now
 ENV MODEL_NAME=use
+EXPOSE 8501
